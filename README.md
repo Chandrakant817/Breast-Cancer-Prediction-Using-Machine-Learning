@@ -1,4 +1,4 @@
-# Breast-Cancer-Prediction-Using-Machine-Learning
+# Breast-Cancer-Prediction-Using-Machine-Learning. (Classification Use Case)
 
 ![image](https://user-images.githubusercontent.com/69152112/210226834-6c9c4e18-6343-4e01-a7dd-3d0e77d7278c.png)
 
